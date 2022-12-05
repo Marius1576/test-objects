@@ -1,0 +1,6 @@
+father,mother,father
+father,mother,exit
+exit,dad,son
+son,son,mother
+dad,sun,son
+son,son,brother
